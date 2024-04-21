@@ -47,7 +47,10 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 **PROGRAM**
 
  Developed by:A .Afifa RegisterNumber:212223040008
-// module SRFLIPFLOP(q, q_bar, s,r, clk, reset);//SR Flip Flop Behavioral Level using ‘case’ 
+
+
+ ```
+ module SRFLIPFLOP(q, q_bar, s,r, clk, reset);//SR Flip Flop Behavioral Level using ‘case’ 
   input s,r,clk, reset;
   output reg q;
   output q_bar;
@@ -67,7 +70,7 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
   assign q_bar = ~q;
 endmodule//
 
-
+```
 
 **RTL LOGIC FOR FLIPFLOPS**
 ![Screenshot 2024-04-21 163314](https://github.com/afifa17112005/SR-FLIPFLOP-USING-CASE/assets/147080931/d7261aff-55d2-43d4-807e-9a4528c58b53)
