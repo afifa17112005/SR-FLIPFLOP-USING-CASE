@@ -79,5 +79,5 @@ endmodule//
 **TIMING DIGRAMS FOR FLIP FLOPS**
 ![Screenshot 2024-04-21 163348](https://github.com/afifa17112005/SR-FLIPFLOP-USING-CASE/assets/147080931/7f0548a6-b0b7-4b53-9258-fdb88a162639)
 
-**RESULTS**
+**RESULTS**:
 Thus the program to implement a SR flipflop using verilog and validating their functionality using their functional tables is successfully completed.
